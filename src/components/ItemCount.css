@@ -1,0 +1,21 @@
+.Item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20vh;
+    padding-bottom: 20vh;
+}
+
+.Contador {
+    max-width: 70vh;
+    min-width: 30vh;
+}
+
+.less-plus {
+    font-size: 20px;
+    font: bold;
+}
+
+.cardTitle {
+    text-align: left;
+}
